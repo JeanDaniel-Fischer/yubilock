@@ -210,7 +210,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Yubilock"
         "ProductCode" = "8:{5BAE01B7-6C03-4714-86AA-A2A905CA4819}"
-        "PackageCode" = "8:{9A194846-E23F-4F58-8354-9C3B73ADE95B}"
+        "PackageCode" = "8:{5F6A2C5F-8DD4-4279-8F49-4E663B5D2C76}"
         "UpgradeCode" = "8:{29FA5CBD-652B-4084-A4F4-6B5414178134}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
