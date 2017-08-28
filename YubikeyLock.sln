@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YubikeyLock", "YubikeyLock\YubikeyLock.csproj", "{C7FFF62B-DC2F-41EF-8F70-461ADE00EF71}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{FF016278-A3A3-449E-93C7-6F94C4B0722A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{C7FFF62B-DC2F-41EF-8F70-461ADE00EF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7FFF62B-DC2F-41EF-8F70-461ADE00EF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7FFF62B-DC2F-41EF-8F70-461ADE00EF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF016278-A3A3-449E-93C7-6F94C4B0722A}.Debug|Any CPU.ActiveCfg = Debug
+		{FF016278-A3A3-449E-93C7-6F94C4B0722A}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
